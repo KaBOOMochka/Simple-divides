@@ -4,4 +4,4 @@ https://github.com/KaBOOMochka/No_Iteration_limit_mod_for_Noita
 
 Move Simple-divides from zip to the Noita's mod folder.
 
-In the final version you can configurate spell changes in the settings.
+You can configurate some spell changes in the settings.
